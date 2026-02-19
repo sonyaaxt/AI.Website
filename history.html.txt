@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Історія штучного інтелекту</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Історія розвитку AI</h1>
+</header>
+
+<nav>
+    <a href="index.html">Головна</a>
+</nav>
+
+<section>
+    <h2>Початок розвитку</h2>
+    <p>Термін "штучний інтелект" було введено у 1956 році на конференції в Дартмутському коледжі.</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Dartmouth_College_campus.jpg" alt="Dartmouth College">
+
+    <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/O5nskjZ_GoI"
+        allowfullscreen></iframe>
+
+    <p>Докладніше:
+        <a href="https://uk.wikipedia.org/wiki/Історія_штучного_інтелекту" target="_blank">
+        Історія AI</a>
+    </p>
+</section>
+
+<footer>
+    Автор: Іван Петренко | example@email.com | 2026
+</footer>
+
+</body>
+</html>

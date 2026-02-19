@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Застосування AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Застосування штучного інтелекту</h1>
+</header>
+
+<nav>
+    <a href="index.html">Головна</a>
+</nav>
+
+<section>
+    <h2>Де використовується AI?</h2>
+    <p>AI застосовується у медицині, фінансах, транспорті, освіті та кібербезпеці.</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Robot-assisted_surgery.jpg" alt="AI in Medicine">
+
+    <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/AdVgPCM5GRC"
+        allowfullscreen></iframe>
+
+    <p>Джерело:
+        <a href="https://www.weforum.org/agenda/archive/artificial-intelligence-and-robotics/"
+        target="_blank">World Economic Forum</a>
+    </p>
+</section>
+
+<footer>
+    Автор: Іван Петренко | example@email.com
+</footer>
+
+</body>
+</html>

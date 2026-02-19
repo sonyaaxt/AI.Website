@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Технології AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Технології штучного інтелекту</h1>
+</header>
+
+<nav>
+    <a href="index.html">Головна</a>
+    <a href="ml.html">Машинне навчання</a>
+    <a href="nlp.html">Обробка мови</a>
+</nav>
+
+<section>
+    <h2>Основні напрямки</h2>
+    <p>AI включає машинне навчання, нейронні мережі, комп’ютерний зір та NLP.</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Neural_network_example.svg" alt="Neural Network">
+
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/aircAruvnKk" 
+    allowfullscreen></iframe>
+
+    <p>Більше інформації: 
+    <a href="https://www.ibm.com/topics/artificial-intelligence" target="_blank">
+    IBM AI</a></p>
+</section>
+
+<footer>
+    Автор: Іван Петренко | example@email.com
+</footer>
+
+</body>
+</html>

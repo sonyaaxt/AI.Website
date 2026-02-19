@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Етика AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Етичні питання AI</h1>
+</header>
+
+<nav>
+    <a href="index.html">Головна</a>
+    <a href="risks.html">Ризики</a>
+    <a href="future.html">Майбутнє</a>
+</nav>
+
+<section>
+    <h2>Основні виклики</h2>
+    <p>AI викликає питання конфіденційності, безпеки та відповідальності.</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Ethics_icon.svg">
+
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/5dZ_lvDgevk"
+    allowfullscreen></iframe>
+
+    <p>Докладніше:
+    <a href="https://www.unesco.org/en/artificial-intelligence" target="_blank">
+    UNESCO AI Ethics</a></p>
+</section>
+
+<footer>
+    Автор: Іван Петренко | example@email.com
+</footer>
+
+</body>
+</html>

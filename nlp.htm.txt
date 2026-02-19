@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Обробка природної мови</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Обробка природної мови (NLP)</h1>
+</header>
+
+<nav>
+    <a href="technologies.html">Назад</a>
+</nav>
+
+<section>
+    <p>NLP дозволяє комп’ютерам розуміти, аналізувати та генерувати людську мову.</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/NLP_word_cloud.png" alt="NLP">
+
+    <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/fOvTtapxa9c"
+        allowfullscreen></iframe>
+
+    <p>Детальніше:
+        <a href="https://www.ibm.com/topics/natural-language-processing"
+        target="_blank">IBM NLP</a>
+    </p>
+</section>
+
+<footer>
+    Автор: Іван Петренко | example@email.com
+</footer>
+
+</body>
+</html>

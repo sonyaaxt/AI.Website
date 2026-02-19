@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Ризики AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Ризики штучного інтелекту</h1>
+</header>
+
+<nav>
+    <a href="ethics.html">Назад</a>
+</nav>
+
+<section>
+    <p>AI може створювати ризики, пов’язані з автоматизацією праці, безпекою та приватністю.</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Cyber_security.svg" alt="AI Risks">
+
+    <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/xoVJKj8lcNQ"
+        allowfullscreen></iframe>
+
+    <p>Докладніше:
+        <a href="https://www.oecd.org/digital/artificial-intelligence/"
+        target="_blank">OECD AI Policy</a>
+    </p>
+</section>
+
+<footer>
+    Автор: Іван Петренко | example@email.com
+</footer>
+
+</body>
+</html>

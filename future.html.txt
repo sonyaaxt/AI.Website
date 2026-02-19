@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Майбутнє AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Майбутнє штучного інтелекту</h1>
+</header>
+
+<nav>
+    <a href="ethics.html">Назад</a>
+</nav>
+
+<section>
+    <p>Очікується, що AI стане ключовою технологією майбутнього у всіх сферах життя.</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Future_technology.jpg" alt="Future AI">
+
+    <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/kWmX3pd1f10"
+        allowfullscreen></iframe>
+
+    <p>Читайте більше:
+        <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights"
+        target="_blank">McKinsey AI Insights</a>
+    </p>
+</section>
+
+<footer>
+    Автор: Іван Петренко | example@email.com
+</footer>
+
+</body>
+</html>

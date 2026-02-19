@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Штучний інтелект - Головна</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Штучний інтелект</h1>
+</header>
+
+<nav>
+    <a href="index.html">Головна</a>
+    <a href="technologies.html">Технології</a>
+    <a href="ethics.html">Етика</a>
+    <a href="history.html">Історія</a>
+    <a href="applications.html">Застосування</a>
+</nav>
+
+<section>
+    <h2>Що таке штучний інтелект?</h2>
+    <p>Штучний інтелект (AI) — це галузь інформатики, яка створює системи,
+    здатні виконувати завдання, що потребують людського інтелекту.</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Artificial_Intelligence_logo.svg" alt="AI image">
+
+    <h3>Відео пояснення</h3>
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/2ePf9rue1Ao" 
+    allowfullscreen></iframe>
+
+    <p>Детальніше можна прочитати на 
+    <a href="https://uk.wikipedia.org/wiki/Штучний_інтелект" target="_blank">
+    Вікіпедії</a>.</p>
+</section>
+
+<footer>
+    Автор: Іван Петренко | Email: example@email.com | 2026
+</footer>
+
+</body>
+</html>
